@@ -20,13 +20,21 @@ Repositório para atividade "Dados abertos e políticas públicas: Como a invest
 ## Onde baixar dados abertos?
 
 [Base dos Dados](https://basedosdados.org/)
+
 [Dados.gov](https://dados.gov.br/home)
+
 [Brasil.IO](https://brasil.io/home/)
+
 [Our World in Data](https://ourworldindata.org/)
+
 [The World Bank](https://data.worldbank.org/)
+
 [Dados Recife](http://dados.recife.pe.gov.br/)
+
 [data.europa.eu](https://data.europa.eu/en)
+
 [NYC Open Data](https://opendata.cityofnewyork.us/)
+
 [FiveThirtyEight](https://data.fivethirtyeight.com/)
 
 
